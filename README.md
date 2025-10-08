@@ -154,18 +154,18 @@ The application is structured using a Hexagonal Architecture, also known as Port
 
 ```mermaid
 graph TD
-    A[Client Sends POST /api/users/register] --> B{Fastify Router};
-    B --> C{Zod Validation Plugin};
-    C -- Valid Data --> D{UserController.registerUser};
-    D --> E{UserService.createUser};
-    E --> F{Hash Password (bcrypt)};
-    F --> G{UserRepository.create};
-    G -- Persist User --> H[Database (PostgreSQL)];
-    H --> I{UserRepository.create returns User};
-    I --> J{UserService.createUser returns User};
-    J --> K[UserController.registerUser returns User];
-    K --> L[Client Receives 201 Created];
-    C -- Invalid Data --> M[Client Receives 400 Bad Request];
+    A[Cliente envia POST /api/users/register] --> B[Fastify Router]
+    B --> C[Plugin de Validação Zod]
+    C -->|Dados Válidos| D[UserController.registerUser]
+    C -->|Dados Inválidos| M[Cliente recebe 400 Bad Request]
+    D --> E[UserService.createUser]
+    E --> F[Hash da Senha com bcrypt]
+    F --> G[UserRepository.create]
+    G --> H[Database PostgreSQL]
+    H --> I[UserRepository retorna User]
+    I --> J[UserService retorna User]
+    J --> K[UserController retorna User]
+    K --> L[Cliente recebe 201 Created]
 ```
 
 ## 4. Technical Debts & Future Improvements
