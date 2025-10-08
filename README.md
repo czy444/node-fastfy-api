@@ -1,4 +1,4 @@
-# Sustainable Habit Tracking API (Gamified) 🌱📱
+# Sustainable Habit Tracking API (Gamified) 
 
 ## Project Overview
 
